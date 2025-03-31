@@ -1,0 +1,18 @@
+{
+    "Akash": {
+        "password": "111",
+        "user_type": "Admin"
+    },
+    "Veer": {
+        "password": "112",
+        "user_type": "Admin"
+    },
+    "jagat": {
+        "password": "113",
+        "user_type": "User"
+    },
+    "pashG": {
+        "password": "114",
+        "user_type": "User"
+    }
+}

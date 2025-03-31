@@ -1,0 +1,58 @@
+{
+    "APP0001": {
+        "name": "veerkumar",
+        "passport_number": "1234567890",
+        "nationality": "india",
+        "university": "bitm",
+        "visa_type": "student",
+        "interview_date": null,
+        "interview_location": null,
+        "interview_status": "Not Assigned",
+        "visa_status": "Pending",
+        "visa_expiry_date": null,
+        "Renew status": "not renewed",
+        "details_updated": false
+    },
+    "APP0002": {
+        "name": "Anu",
+        "passport_number": "0987654321",
+        "nationality": "china",
+        "university": "vtu",
+        "visa_type": "work",
+        "interview_date": null,
+        "interview_location": null,
+        "interview_status": "Not Assigned",
+        "visa_status": "Pending",
+        "visa_expiry_date": null,
+        "Renew status": "not renewed",
+        "details_updated": false
+    },
+    "APP0003": {
+        "name": "Veerkumar",
+        "passport_number": "1234567890",
+        "nationality": "india",
+        "university": "bitm",
+        "visa_type": "student",
+        "interview_date": null,
+        "interview_location": null,
+        "interview_status": "Not Assigned",
+        "visa_status": "Pending",
+        "visa_expiry_date": null,
+        "Renew status": "not renewed",
+        "details_updated": true
+    },
+    "APP0004": {
+        "name": "jag",
+        "passport_number": "1345567890",
+        "nationality": "india",
+        "university": "vtu",
+        "visa_type": "student",
+        "interview_date": null,
+        "interview_location": null,
+        "interview_status": "Not Assigned",
+        "visa_status": "Pending",
+        "visa_expiry_date": null,
+        "Renew status": "not renewed",
+        "details_updated": true
+    }
+}
